@@ -5,7 +5,7 @@ This is a project to detect the fire weather index of algerian forest to for det
 To run flask application 
 
 ```
-python app.py
+python application.py
 ```
 
 
